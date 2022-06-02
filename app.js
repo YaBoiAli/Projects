@@ -8,10 +8,10 @@ const path = require('path');
 
 
 app.use("/public", express.static(path.join(__dirname, 'public')));
-app.use('/img', express.static(__dirname + 'public/img'))
-app.use('/css', express.static(__dirname + 'public/css'))
-app.use('/js', express.static(__dirname + 'public/js'))
-app.use('/audio', express.static(__dirname + 'public/audio'))
+// app.use('/img', express.static(__dirname + 'public/img'))
+// app.use('/css', express.static(__dirname + 'public/css'))
+// app.use('/js', express.static(__dirname + 'public/js'))
+// app.use('/audio', express.static(__dirname + 'public/audio'))
 
 app.get('/', (req,res) =>{
     res.sendFile(__dirname + '/views/index.html')
