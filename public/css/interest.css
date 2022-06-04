@@ -180,9 +180,9 @@ body {
 }
 .activetick:after {
   background-color: #fdfdfd;
-  -webkit-box-shadow: 0 0 0.3em 0.08em #ff0606;
-  -moz-box-shadow: 0 0 0.3em 0.08em #ff0606;
-  box-shadow: 0 0 0.3em 0.08em #ff0606;
+  -webkit-box-shadow: 0 0 0.3em 0.08em #8706ff;
+  -moz-box-shadow: 0 0 0.3em 0.08em #8706ff;
+  box-shadow: 0 0 0.3em 0.08em #8706ff;
   -webkit-transition: all 50ms ease-in;
   -moz-transition: all 50ms ease-in;
   -o-transition: all 50ms ease-in;
