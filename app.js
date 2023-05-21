@@ -14,7 +14,7 @@ app.use("/public", express.static(path.join(__dirname, 'public')));
  app.use('/audio', express.static(__dirname + 'public/audio'))
 
 app.get('/', (req,res) =>{
-    res.sendFile(__dirname + '/views/index.html')
+    res.sendFile(__dirname + '/index.html')
 })
 
 app.get('/interest', (req,res) =>{
