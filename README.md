@@ -34,7 +34,7 @@ The application is covered under the following license:
 [apache](https://choosealicense.com/licenses/apache)
       
 
-## [Badges](#table-of-contents)
+## [Badges]
 
 ![badge](https://img.shields.io/badge/license-apache-brightorange)
 
