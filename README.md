@@ -44,7 +44,7 @@ The application is covered under the following license:
 [agpl](https://choosealicense.com/licenses/agpl)
       
 
-## How To Contribute:
+## Contribution:
 
 dfsadfsdfsdfsdf
 
