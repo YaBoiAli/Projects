@@ -10,7 +10,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [How To Contribute](#How To Contribute)
+* [How To Contribute](#howtocontribute)
 * [Tests](#tests)
 * [Questions](#questions)
     
