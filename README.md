@@ -56,7 +56,7 @@ undefined
 
 ## Questions:
 
-My [GitHub](https://github.com/YaBoiAlu)
+My [GitHub](https://github.com/YaBoiAli)
 
 [Email: alinawab9830@gmail.com](mailto:alinawab9830@gmail.com)
 
