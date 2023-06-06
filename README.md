@@ -1,6 +1,8 @@
 
-# dfgdf
-![badge](https://img.shields.io/badge/license-mit-brightorange)
+# Ali Nawab
+
+## Licensing:
+![badge](https://img.shields.io/badge/license-mit-brightorange)                   
     
 ## Table of contents
 
@@ -9,27 +11,27 @@
 * [Usage](#usage)
 * [Badges](#badges)
     
-## Description
+## Description:
 
-dfgdsf
+none
 
-dfgdsf
+none
 
-dfgdf
+na
 
-fdgdfg
+na
 
-## Installation
+## Installation:
 
-dfgdf
+na
 
-## Usage
+## Usage:
 
-dfgdf
+na
 
-## Credits
+## Credits: 
 
-dfgdfg
+https://github.com/undefined
 
 
 ## License
@@ -39,7 +41,11 @@ The application is covered under the following license:
 [mit](https://choosealicense.com/licenses/mit)
       
 
-## Badges
+## How To Contribute:
 
-![badge](https://img.shields.io/badge/license-mit-brightorange)
+na
+
+The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+
 
