@@ -1,8 +1,8 @@
 
-# Readme Generator
+# sdfsadf
 
 ## Badge:
-![badge](https://img.shields.io/badge/license-mit-brightorange)                   
+                   
     
 ## Table of contents
 
@@ -16,37 +16,31 @@
     
 ## Description:
 
-idk
+sdfsadf
 
-Ws created to make it easy for users to make a readme file professionally
+sdfasdf
 
-Makes a readMe quickly and easily
+sdfsadfsdf
 
-I learned about inquiere
+sdfsadfsdf
 
 ## Installation:
 
-clone the repo in git bash and the run npm install and node.js index.js
+sdfsadfasdf
 
 ## Usage:
 
-none
+sadfasdfsadf
 
 ## Credits: 
 
-none
+asfdsafasdf
 
 
-## License
-  
-The application is covered under the following license:
-  
-[mit](https://choosealicense.com/licenses/mit)
-      
 
 ## Contribution:
 
-none
+sadfsadfasdf
 
 The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
@@ -56,7 +50,7 @@ undefined
 
 ## Questions:
 
-My [GitHub](https://github.com/YaBoiAli)
+My [GitHub](https://github.com/sdfasdfasd)
 
-[Email: alinawab9830@gmail.com](mailto:alinawab9830@gmail.com)
+[Email: asdfsdf](mailto:asdfsdf)
 
