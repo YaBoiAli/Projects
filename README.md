@@ -1,8 +1,8 @@
 
-# asdfsd
+# Readme Generator
 
 ## Badge:
-![badge](https://img.shields.io/badge/license-agpl-brightorange)                   
+![badge](https://img.shields.io/badge/license-mit-brightorange)                   
     
 ## Table of contents
 
@@ -16,37 +16,37 @@
     
 ## Description:
 
-fsdfsadf
+idk
 
-sdf
+Ws created to make it easy for users to make a readme file professionally
 
-sdfsdfsdfs
+Makes a readMe quickly and easily
 
-sdfsdfsdfsdf
+I learned about inquiere
 
 ## Installation:
 
-sdfsdfsdfsdfsdf
+clone the repo in git bash and the run npm install and node.js index.js
 
 ## Usage:
 
-sdfsdfsdfsdfsdf
+none
 
 ## Credits: 
 
-sdfsadfsdfsdfsdf
+none
 
 
 ## License
   
 The application is covered under the following license:
   
-[agpl](https://choosealicense.com/licenses/agpl)
+[mit](https://choosealicense.com/licenses/mit)
       
 
 ## Contribution:
 
-dfsadfsdfsdfsdf
+none
 
 The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
@@ -56,7 +56,7 @@ undefined
 
 ## Questions:
 
-My [GitHub](https://github.com/sdafsadfsdf)
+My [GitHub](https://github.com/YaBoiAlu)
 
-[Email: sdfsdf](mailto:sdfsdf)
+[Email: alinawab9830@gmail.com](mailto:alinawab9830@gmail.com)
 
